@@ -6,13 +6,15 @@
 // import Taskmanager from './components/Taskmanager.vue'
 // import Counterapp  from './components/Counterapp.vue'
 // import Notes  from './components/Notes.vue'
-import Tic_tac_toe  from './components/Tic_tac_toe.vue'
+// import Tic_tac_toe  from './components/Tic_tac_toe.vue'
+import Logic_page  from './components/Login_page.vue'
 // import Tic_tac_toe_copy  from './components/Tic_tac_toe_copy.vue'
 </script>
 
 <template>
+  <Logic_page/>
   <!-- <Tic_tac_toe_copy/> -->
-  <Tic_tac_toe/>
+  <!-- <Tic_tac_toe/> -->
   <!-- <Notes/> -->
   <!-- <Counterapp/> -->
   <!-- <Taskmanager/> -->
