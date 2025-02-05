@@ -47,6 +47,9 @@ export default {
         show_password.value = !show_password.value;
     };
 
+    const handleEmailPattern=(email)=>{
+        
+    }
     const handleLogin = () => {
         if(!input_email.value){
             message_error.value = "email is required"
