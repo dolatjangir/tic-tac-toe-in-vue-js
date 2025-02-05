@@ -1,5 +1,6 @@
 <template>
     <div :class="theme">
+      <h1  class="font-semibold text-3xl">Counterapp</h1>
       <h1>Counter: {{ count }}</h1>
       <button @click="increment">+</button>
       <button @click="decrement">-</button>

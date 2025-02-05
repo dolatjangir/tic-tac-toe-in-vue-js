@@ -64,7 +64,7 @@
   .calculator {
     width: 300px;
     margin: 50px auto;
-    border: 1px solid #ccc;
+    border: 1px solid ;
     border-radius: 10px;
     padding: 20px;
     background-color: #f0f0f0;
@@ -87,7 +87,7 @@
   .calculator-buttons {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 10px;
+    gap: 5px;
   }
   
   .button {
